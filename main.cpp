@@ -61,6 +61,5 @@ int main()
 			break;		
 		}
 		cout << nome << ", o seu aumento, no cargo de " << cargo << ", é de R$" << aumento << ", portanto seu novo salário é de R$" << novo << endl;
-		cout << " " << endl;
 	} 	
 }
